@@ -1,0 +1,4 @@
+augmentation_strength: basic
+learning_rate: 0.0001
+model_name: res_net_18
+optimizer: Adam

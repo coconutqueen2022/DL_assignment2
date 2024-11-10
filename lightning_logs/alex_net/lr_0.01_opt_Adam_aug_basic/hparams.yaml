@@ -1,0 +1,4 @@
+augmentation_strength: basic
+learning_rate: 0.01
+model_name: alex_net
+optimizer: Adam
